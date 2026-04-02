@@ -1,12 +1,13 @@
 # Offensive Seucrity Project
 **HomeLab Environment**
 
-The purpose of this homelab environment is to demonstrate a Phishing attack with a keylogger script being deployed
+The purpose of this homelab environment is to demonstrate a Phishing attack with a malicious script being deployed
 to an enterprise environment. The homelab contains opnsense router and Windows Server along with a Windows Client and Ubuntu Server that
 are both connected to the domain associated with the Windows Server running Active Directory service. OPNsense
 acts as a router with two interfaces one connected to the ISP and the other connected to a network switch. Along side
 OPNsense a Windows Server machine is deployed to run a DHCP server and Active Directory, this is accomplished by configure
-DHCP Relay on OPNSense and DNS query forwarding. 
+DHCP Relay on OPNSense and DNS query forwarding. We want to show how easy it is to steal login credentials from company users. To help us to
+preform this we will be using a tool called setoolkit, specifically there credential harvesting directory. 
 
 
 
