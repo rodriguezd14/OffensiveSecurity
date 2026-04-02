@@ -28,4 +28,27 @@ nmap -sC 192.168.1.2
 ```
 <img width="869" height="829" alt="Screenshot 2026-04-01 114930" src="https://github.com/user-attachments/assets/3b109f65-30ab-4ad9-9c00-440ce162d1a8" />
 
+Code behind phishing attack
+
+<img width="987" height="323" alt="image" src="https://github.com/user-attachments/assets/96fa9124-68d0-4e98-a63d-28ab1b906e65" />
+
+
+Phishing email harvesting credentials
+
+<img width="477" height="310" alt="image" src="https://github.com/user-attachments/assets/4a3ac0e1-f73a-4811-915b-c4093b19ba78" />
+
+
+
+Backend
+
+<img width="475" height="112" alt="image" src="https://github.com/user-attachments/assets/9eac0a0d-dbcc-45b5-bce2-73021d548845" />
+
+
+
+Cloning website
+
+<img width="972" height="315" alt="image" src="https://github.com/user-attachments/assets/74ae43f6-b584-4e6d-a291-7ce9bd93621b" />
+
+
+
 
